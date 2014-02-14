@@ -7,8 +7,6 @@ Reinventing the bicycle. Compress images like a boss. (c)
 
 ### Description
 
-SMPEG stands for Style Mistake's Picture Eradication Graph. Yep.
-
 It's a lossy compression algorithm that does compress something, but I
 don't guarantee it.
 
@@ -17,7 +15,7 @@ psychovisually irrelevant data, ie. blurry areas, smooth textures, while
 keeping detailed areas as is.
 
 It works best on live shots, but produces lots of overhead on screenshots,
-clipart and other images, where PNG is the best choice.
+clipart, and lots of artifacts on pixel art.
 
 ***
 
